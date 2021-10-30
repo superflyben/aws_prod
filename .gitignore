@@ -130,3 +130,6 @@ dmypy.json
 
 # R project file
 *.Rproj
+
+# System Files
+.DS_Store
